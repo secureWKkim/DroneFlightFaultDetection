@@ -14,12 +14,12 @@
     - LSTM Model: Pytorch
     - Visualization:
 
-## Results
-시스템 개발 완성 후 작성, 첨부
-
-## Model Evaluation
+## Model Development & Evaluation
 - GCS log data (실제 시스템에서 사용 가능한 데이터)를 가공해 학습한 모델의 accuracy
 ![image](https://user-images.githubusercontent.com/48075848/122979223-44745680-d3d2-11eb-9537-f40cf2404e4d.png)
+
+## Results
+시스템 개발 완성 후 작성, 첨부
 
 ## Conclusion
 ### LSTM Model
