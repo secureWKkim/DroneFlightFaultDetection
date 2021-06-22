@@ -8,11 +8,11 @@
 ![image](https://user-images.githubusercontent.com/48075848/122977825-cc596100-d3d0-11eb-8109-791698267a27.png)
 
 * Tech Stack
- - 데이터 수집:
- - 데이터 저장:
- - 데이터 전처리:
- - LSTM Model: Pytorch
- - Visualization:
+    - 데이터 수집:
+    - 데이터 저장:
+    - 데이터 전처리:
+    - LSTM Model: Pytorch
+    - Visualization:
 
 ## Results
 
