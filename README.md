@@ -5,7 +5,7 @@
 
 * Goals, objectives
  아래 그림과 같은 실시간 시스템을 제작한다.
-![image](https://user-images.githubusercontent.com/48075848/122975089-f2313680-d3cd-11eb-9df7-f17ce6696774.png)
+![image](https://user-images.githubusercontent.com/48075848/122977825-cc596100-d3d0-11eb-8109-791698267a27.png)
 
 * Tech Stack
 - 데이터 수집:
