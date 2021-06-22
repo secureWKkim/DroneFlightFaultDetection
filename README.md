@@ -23,15 +23,5 @@
 ## Results
 시스템 개발 완성 후 작성, 첨부
 
-## Conclusion
-### LSTM Model
-1. On-board data 대상, 모든 Case 성능↑, 성능 편차↓
-2. GCS log data 대상, 모든 Case 성능 우위
-3. Time Sequence 줄여도 성능 저하 거의 없음
-4. 연산 소요 시간 적음<br>
-∴ 실제 실시간 시스템에 적용하기에 적합
-
-### Real-Time System
-
 ## Reports
 발표 슬라이드: https://drive.google.com/file/d/1qQ00HKr3U7K7Xuv-jqbAivG-1mp5c8GH/view?usp=sharing
