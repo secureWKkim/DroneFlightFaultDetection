@@ -8,8 +8,9 @@
 ![image](https://user-images.githubusercontent.com/48075848/122977825-cc596100-d3d0-11eb-8109-791698267a27.png)
 
 * Tech Stack
-    - Data Storage:
+    - Data Storage: Google Cloud Storage
     - Pipeline(ETL): Apache Beam
+    - Event Storage: Google Cloud BigQuery
     - LSTM Model: Pytorch
     - Visualization:
 
