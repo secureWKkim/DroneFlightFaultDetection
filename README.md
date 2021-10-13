@@ -9,8 +9,9 @@
 
 * Tech Stack
     - Data Storage: Google Cloud Storage
-    - Pipeline(ETL): Apache Beam
+    - Pipeline(ETL): Google Dataflow (use code written by Apache Beam)
     - Event Storage: Google Cloud BigQuery
+    - Real Time Data Stream: Google Cloud Pub/Sub
     - LSTM Model: Pytorch
     - Visualization:
 
