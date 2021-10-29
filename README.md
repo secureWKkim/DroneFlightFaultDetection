@@ -5,7 +5,7 @@
 
 * Goals, objectives<br>
  아래 그림과 같은 architecture의 실시간 드론 이상 감지 시스템을 개발한다.
-![image](https://user-images.githubusercontent.com/48075848/139420595-5a7477b3-6541-4ef9-8cb6-220b9e3ba539.png)
+![image](https://user-images.githubusercontent.com/48075848/139421100-6d4786d0-46c8-4419-b82f-91b98b76f9ed.png)
 
 
 * Tech Stack
