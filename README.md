@@ -5,7 +5,8 @@
 
 * Goals, objectives<br>
  아래 그림과 같은 architecture의 실시간 드론 이상 감지 시스템을 개발한다.
-![image](https://user-images.githubusercontent.com/48075848/122977825-cc596100-d3d0-11eb-8109-791698267a27.png)
+![image](https://user-images.githubusercontent.com/48075848/139420595-5a7477b3-6541-4ef9-8cb6-220b9e3ba539.png)
+
 
 * Tech Stack
     - Data Storage: Google Cloud Storage
