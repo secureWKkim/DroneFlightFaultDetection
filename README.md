@@ -14,7 +14,7 @@
     - Event Storage: Google Cloud BigQuery
     - Real Time Data Stream: Google Cloud Pub/Sub
     - LSTM Model: Pytorch
-    - Visualization:
+    - Visualization: Google Data Studio
 
 ## Model Development & Evaluation
 - Dataset: https://github.com/mrtbrnz/fault_detection
