@@ -11,9 +11,9 @@ def main():
     args = parse_arguments()
     # 1. load data
     print('Loading the data...')
-    credentials = service_account.Credentials.from_service_account_file('/Users/wonkyungkim/Documents/GitHub/google-cloud-platform/04_streaming/simulate/silver-seat-328814-0c280dde0bc1.json')
+    credentials = service_account.Credentials.from_service_account_file('YOUR_SERVICE_ACCOUNT_JSON_KEY')
     dataframe = read_gbq(
-        project_id='silver-seat-328814',
+        project_id='YOUR_PROJECT_ID',
         # credentials=os.environ['GOOGLE_APPLICATION_CREDENTIALS'],
         credentials=credentials,
         dialect='standard',  # 얜 뭐꼬
