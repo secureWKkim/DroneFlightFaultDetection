@@ -11,7 +11,7 @@
 * Tech Stack
     - Data Storage: Google Cloud BigQuery
     - Pipeline(ETL), Event Publisher: Google Dataflow (use code written by Apache Beam)
-    - Real Time Event Stream: Google Cloud Pub/Sub
+    - Real Time Event: Google Cloud Pub/Sub
     - LSTM Model: Pytorch
     - Visualization: Bokeh
 
