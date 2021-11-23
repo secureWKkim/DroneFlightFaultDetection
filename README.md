@@ -5,14 +5,13 @@
 
 * Goals, objectives<br>
  실시간으로 드론의 이상을 감지하고 관련 정보를 시각화해서 보여주는 대시보드를 개발한다.
-![image](https://user-images.githubusercontent.com/48075848/139421100-6d4786d0-46c8-4419-b82f-91b98b76f9ed.png)
+![image](https://user-images.githubusercontent.com/48075848/143085416-e147f761-4ef6-4782-8e79-e05a1f31611d.png)
 
 
 * Tech Stack
-    - Data Storage: Google Cloud Storage
-    - Pipeline(ETL): Google Dataflow (use code written by Apache Beam)
-    - Event Storage: Google Cloud BigQuery
-    - Real Time Data Stream: Google Cloud Pub/Sub
+    - Data Storage: Google Cloud BigQuery
+    - Pipeline(ETL), Event Publisher: Google Dataflow (use code written by Apache Beam)
+    - Real Time Event Stream: Google Cloud Pub/Sub
     - LSTM Model: Pytorch
     - Visualization: Bokeh
 
