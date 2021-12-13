@@ -25,5 +25,5 @@
 ![Hnet com-image](https://user-images.githubusercontent.com/48075848/144088827-0e4dae4e-7cd7-49e5-85e1-aae0ce6c085a.gif)
 
 ## Reports
-발표 슬라이드: https://drive.google.com/file/d/1qQ00HKr3U7K7Xuv-jqbAivG-1mp5c8GH/view?usp=sharing
+발표 슬라이드: https://drive.google.com/file/d/1qQ00HKr3U7K7Xuv-jqbAivG-1mp5c8GH/view?usp=sharing<br>
 논문: https://drive.google.com/file/d/1YLvcg1MeU5_jR6eLRPNVXIUnFGQRPk9N/view?usp=sharing
